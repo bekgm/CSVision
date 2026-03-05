@@ -1,4 +1,4 @@
-# Data Analytics Platform
+# Data Analytics Platform - CSVision
 
 A simplified Power BI-style data analytics MVP built with **FastAPI + React**.
 
